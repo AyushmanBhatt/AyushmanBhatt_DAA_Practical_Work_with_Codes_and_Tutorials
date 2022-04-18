@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @AyushmanBhatt
-- 👀 I’m interested in Competitive Coding
-- 🌱 I’m currently completing my graduation in B.Tech CSE.
-- 💞️ I’m looking to collaborate on any project.
-
-<!---
-AyushmanBhatt/AyushmanBhatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
++ Name-Ayushman Bhatt
++ Section-AI & DS
++ University Roll No-2017640
++ Class Roll No-21
++ #DAA
++ This branch repository is created for Programs and Notes of Design and Analysis of Algorithms.
