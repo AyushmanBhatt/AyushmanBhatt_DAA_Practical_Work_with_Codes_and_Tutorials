@@ -10,7 +10,10 @@ count i.e. number of times such pair exists */
 #include<iostream>
 #define max 100
 using namespace std;
-
+//Name-Ayushman Bhatt 
+//Section-AI & DS 
+//University Roll No-2017640 
+//Class Roll No-21
 int main()
 {
     int arr[max],n,t;
