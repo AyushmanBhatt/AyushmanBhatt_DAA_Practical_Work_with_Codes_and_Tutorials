@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
-
+//Name-Ayushman Bhatt 
+//Section-AI & DS 
+//University Roll No-2017640 
+//Class Roll No-21
 int main()
 {
     int z; cin>>z;
